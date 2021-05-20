@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "classeIP.h"
 
-char classeIP(int adresseIP[4])
+void classeIP(int adresseIP[4])
 {
 	if adresseIP[0] <= 126 && adresseIP[1] <= 255 && adresseIP[2] <= 255 && adresseIP[3] <= 255
 	{
