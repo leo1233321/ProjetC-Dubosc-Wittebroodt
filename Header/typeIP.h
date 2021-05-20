@@ -1,3 +1,3 @@
 *// en tête liée au fonctions typeIP
 
-char typeIP(int adresseIP);
+char typeIP(int adresseIP[4]);
